@@ -13,6 +13,10 @@ This example uses RGB and HSB color mode within the sketch.
 
 [Math](https://github.com/achapm1/MAGD150stuff/tree/gh-pages/f18_magd150_lab03_Chapman_Sykes)
 
+This examples uses math operators, calculation functions, and prints information into the console.
+
+
+
 
 
 
