@@ -1,1 +1,1 @@
-# MAGD150stuff
+# MAGD150Stuff
