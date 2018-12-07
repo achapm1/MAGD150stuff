@@ -1,5 +1,4 @@
-# Angelica
-## Readme File
+## Angelica's codes
 
 There are examples of code for the MAGD 150 course at the University of Wisconsin-Whitewater.
 
