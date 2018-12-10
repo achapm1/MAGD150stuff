@@ -6,7 +6,7 @@ Enclosed in this repository are some of my _Processing_ coding assignments that 
 
 [Color Composition]( https://github.com/achapm1/MAGD150stuff/tree/gh-pages/f18magd150lab02_ChapmanSykes) 
 
-Showcases basic RGB and HSB color mode within the sketch.
+Includes basic RGB and HSB color mode within the sketch.
 
 ## Example 2 
 
@@ -27,6 +27,6 @@ Includes labeled buttons that responds to the interaction of a mouse click.
 ## Example 5 
 [Transformation](https://github.com/achapm1/MAGD150stuff/tree/gh-pages/f18_magd150_lab07_ChapmanSykes)
 
-Displays translate, scale, and rotate transformation on shapes.
+Includes translate, scale, and rotate transformation on shapes.
 
 
